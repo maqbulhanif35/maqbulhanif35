@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maqbulhanif35
-- 👀 I’m interested in ython programming especially kivy app development
+- 👀 I’m interested in python programming especially kivy app development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...kivy app development
 - 📫 How to reach me ...+254720326935
